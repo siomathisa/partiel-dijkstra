@@ -18,7 +18,7 @@ Ce projet implémente trois algorithmes de recherche de chemin sur un graphe pon
 Pour exécuter le programme, utilisez la commande suivante dans votre terminal :
 
 ```bash
-python djikstra.py
+python script.py
 ```
 
 ---
@@ -110,7 +110,7 @@ djikstra.py
 
 ## 👨‍💻 Auteur
 
-Ruben KABANGA MUYA, Mathis VIDUEIRA et Esdras TSHIALA KABANGU
+Ruben KABANGA MUYA, Mathis VIDUEIRA et Esdras TSHIALA KABANGU -
 Algorithmie avancée
 
 ---
